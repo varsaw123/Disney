@@ -1,0 +1,236 @@
+
+html{
+    overflow-y: scroll;
+    
+}
+body{
+    margin:0;
+    overflow-x: hidden;
+
+} 
+li{
+    display: inline-block;
+    padding-left:1rem; 
+   
+    text-decoration: none;
+}
+
+
+
+P{
+    cursor: pointer;
+}
+i{
+    cursor: pointer;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size:1.875rem;
+    font-weight: 400;
+}
+
+h5{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2rem;
+    font-weight: 500;
+
+ }
+ h6{
+    font-family: 'Montserrat', sans-serif;
+    font-size: .5rem;
+    font-weight: 100;
+ }
+ 
+
+                                        /* navbar */
+.disney-img{
+            width: 6rem;
+            height: 2rem;                                        
+}                                       
+.nav-link{
+    margin-left:1rem ;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: .9rem;
+}
+
+                                        /* Carousel */
+.section1-img{
+    width: 100%;
+    height: 40rem; 
+    transition: 0.2s;
+}
+.section1-img:hover{
+overflow: hidden;
+transform:scale(1.02);
+cursor: pointer;
+
+}
+                                        /* section 2 */
+.section-img{
+        width: 100%;
+        height: 24rem; 
+        transition: 0.2s;
+}
+.section-img:hover{
+    overflow: hidden;
+    transform:scale(1.02);
+    cursor: pointer;
+     
+}
+.section2{
+    width: 100%;
+    height:100%;
+    
+}
+                                       /* section 3 */
+
+.section3{
+    width: 100%;
+    height: 100%;
+  
+}
+
+
+.section3-img{ 
+
+    width: 100%;
+     height: 19rem; 
+     transition: 0.2s;
+}
+
+.section3-img:hover{
+    overflow: hidden;
+    transform:scale(1.02);
+
+     
+}
+
+
+.video{
+    transition: 0.2s;
+    height: 19rem;
+    width:100%;
+    
+}
+.video:hover{
+    overflow: hidden;
+    transform:scale(1.02);
+    cursor: pointer;
+}
+                                       /* section 4 */
+.section4{
+    width:100%;
+    height:100%;
+    background-color: whitesmoke;
+}
+.section4-img{
+    width: 100%;
+    height:25rem;
+}
+.section4-img{
+
+    cursor: pointer;
+}
+
+.hel5{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2rem;
+    font-weight: 400;
+    text-align: center;
+    line-height: 2;
+ }
+ .hel6{
+    font-family: 'Montserrat', sans-serif;
+    font-size: .8rem;
+    font-weight: 700;
+    text-align: center;
+    line-height: 2;
+ }
+ 
+                                    /* section 5 */
+.section5{
+    width: 100%;
+    height:100%;
+    background-color: whitesmoke;
+    line-height: 4px;
+}
+.section5-img{
+    width: 100%;
+    height: 17rem;
+    transition: 0.2s;
+
+}
+.section5-img:hover{
+    overflow: hidden;
+    transform:scale(1.02);
+}
+
+.sec5-h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 300;
+    line-height: 2;
+ }
+ .sec5-h4{
+    font-family: 'Montserrat', sans-serif;
+    font-size: .9rem;
+    font-weight: 700;
+    line-height: 2;
+ }
+ .sec5-para{
+    line-height: 1;
+ }
+
+                                  /* footer */
+.footer-section{
+    background-color: white;
+    width: 100%;
+    height:100%;
+}
+
+
+footer{
+    height: auto;
+    width: 100%;
+    background-color: white;
+
+}
+
+#footer-id{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 1;
+    
+    
+ }
+ #footer-id:hover{
+    color: lightskyblue;
+    cursor: pointer;
+ }
+
+
+ .img-icons ul{
+    list-style: none;
+    display: flex;
+    margin-left: 25vw;
+ }
+
+ #icons{
+    padding-left: 1rem;
+    font-size: 1.7rem;
+
+ }
+ #icon1{
+    font-size: 1.7rem;
+ }
+ 
+ 
+
+ 
+ 
+ 
+ 
+  
+ 
